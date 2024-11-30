@@ -1,0 +1,10 @@
+﻿{
+  "Name": "OMC",
+  "Author": "OMEGAlinc",
+  "Version": "1.1.0",
+  "Description": "A SMAPI mod that adds commands (as well as a UI) for increasing skill levels, locating animals, feeding animals, and more.",
+  "UniqueID": "OMEGAlinc.OMC",
+  "EntryDll": "OMC.dll",
+  "MinimumApiVersion": "3.14.0",
+  "UpdateKeys": [ "Nexus:29329" ]
+}
